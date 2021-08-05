@@ -31,3 +31,18 @@ input
 	border-radius: 10px;
     width: 50%;
 }
+button{
+	background-color: blue;
+	color:chartreuse;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight:bold;
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	font-style: normal;
+}
+body{
+	background-color:firebrick;
+}
+input{
+	background-color:hotpink;
+}
